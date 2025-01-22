@@ -3,7 +3,7 @@
 
 
 # Prometheus configuration file: `prometheus.yml`
-```bash
+```yml
 global:
   scrape_interval: 15s
   scrape_timeout: 10s
