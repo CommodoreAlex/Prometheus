@@ -2,7 +2,7 @@
 
 
 
-# `prometheus.yml` Configuration file
+# Prometheus configuration file: `prometheus.yml`
 ```bash
 global:
   scrape_interval: 15s
