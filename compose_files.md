@@ -1,6 +1,6 @@
 # `docker-compose.yml` for Grafana
 
-```bash
+```yml
 version: "3.8"
 services:
   grafana:
@@ -16,7 +16,7 @@ volumes:
 ```
 
 # `docker-compose.yml` for Prometheus
-```bash
+```yml
 services:
   prometheus:
     image: prom/prometheus
