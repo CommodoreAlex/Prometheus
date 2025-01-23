@@ -1,6 +1,10 @@
 
 ### **Guide 1: Getting Grafana Up and Running with Docker**
 
+Grafana is an open-source platform used for monitoring and observability. It allows you to visualize time-series data from various sources in customizable dashboards. Typically, Grafana is used with monitoring tools like Prometheus, InfluxDB, and others to provide real-time visualization of your infrastructure metrics, application logs, and other monitoring data.
+
+In this guide, we’ll walk through how to deploy Grafana using Docker, which is a quick and easy way to get Grafana up and running in isolated containers.
+
 #### **Step 1: Create a project directory**
 
 First, create a directory where you'll store your Docker configuration.
@@ -63,4 +67,6 @@ Once logged in, you should see the **Grafana dashboard**. Grafana is now up and 
 
 ---
 
-That’s it for setting up **Grafana**! Next, we can move on to **Prometheus** in the second guide. Let me know if you need any adjustments before we move on!
+Now that Grafana is up and running, the next step is to set up Prometheus, which will act as the data source for Grafana. Prometheus collects and stores metrics from your systems, and Grafana will visualize those metrics in real-time.
+
+See the 'deploy-prometheus file', to see the deployment and configuration of Prometheus and how to connect it to Grafana.
