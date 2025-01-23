@@ -1,5 +1,5 @@
 
-### **Getting Grafana Up and Running with Docker**
+### **Guide 1: Getting Grafana Up and Running with Docker**
 
 Grafana is an open-source platform used for monitoring and observability. It allows you to visualize time-series data from various sources in customizable dashboards. Typically, Grafana is used with monitoring tools like Prometheus, InfluxDB, and others to provide real-time visualization of your infrastructure metrics, application logs, and other monitoring data.
 
