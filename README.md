@@ -14,8 +14,6 @@ This repository provides a comprehensive guide and setup for deploying a **Prome
   - [1. Prometheus UI](#1-prometheus-ui)
   - [2. Grafana UI](#2-grafana-ui)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
