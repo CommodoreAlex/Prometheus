@@ -86,15 +86,3 @@ Here you can:
 If you encounter issues with the setup, here are some things to check:
 - **Prometheus not scraping metrics**: Ensure the `prometheus.yml` configuration is correct, especially the `static_configs` and the target URL for Node Exporter.
 - **Grafana cannot connect to Prometheus**: Double-check that Prometheus is up and running, and that the Grafana data source URL is set correctly (i.e., `http://prometheus:9090`).
-
-## Contributing
-
-We welcome contributions to this repository! If you have any improvements, suggestions, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-Happy Monitoring!
