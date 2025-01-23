@@ -1,4 +1,4 @@
-### ** Guide 2: Deploying and Connecting Prometheus to Grafana with Docker**
+### **Guide 2: Deploying and Connecting Prometheus to Grafana with Docker**
 
 #### **Introduction: What is Prometheus?**
 
