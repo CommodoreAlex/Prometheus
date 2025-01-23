@@ -1,4 +1,4 @@
-### Part 3: Deploying Node Exporter with Docker and Connecting to Prometheus and Grafana
+### 3) Deploying Node Exporter with Docker and Connecting to Prometheus and Grafana
 
 Node Exporter is a lightweight exporter for hardware and OS metrics exposed by *NIX kernels, such as CPU usage, memory, disk, network stats, and more. We’ll deploy Node Exporter in a Docker container and configure Prometheus to scrape metrics from it. Finally, we’ll connect it to Grafana for visualization.
 
